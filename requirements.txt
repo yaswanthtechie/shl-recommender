@@ -2,7 +2,7 @@ fastapi
 uvicorn
 anthropic
 groq
-sentence-transformers
+onnxruntime
 faiss-cpu
 pydantic
 pytest
