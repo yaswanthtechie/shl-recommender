@@ -9,3 +9,5 @@ pytest
 httpx
 python-dotenv
 numpy
+huggingface_hub
+tokenizers
